@@ -13,3 +13,5 @@ Rencana 2023 - 2024
   - Tensorflow
   - Pytorch
 - Golan
+
+latihan cara buat web dgn berbagai framework
